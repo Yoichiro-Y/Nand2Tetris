@@ -1,0 +1,4 @@
+*.code-workspace
+*.dat
+.DS_Store
+*.pyc
